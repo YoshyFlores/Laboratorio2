@@ -52,7 +52,7 @@
         public function getAniosVida(){return $this->aniosVida;}
     }
 
-        class Gallina extends Ave{
+    class Gallina extends Ave{
         public $especies;
         public function setNombre($nombre)
         {
